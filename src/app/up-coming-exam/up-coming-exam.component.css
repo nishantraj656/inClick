@@ -1,0 +1,24 @@
+.bg-secondary2 {
+    /* background:'#e3d3da'; */
+    background-image: radial-gradient(#f4d5f5 75%, #f072f2);
+}
+
+.card2{
+    width:180px;
+    height: 120px;
+}
+
+.card2:hover {
+    width:190px;
+    height: 130px;
+}
+
+img {
+    width:50px;
+    height:60px;
+}
+
+.card2:hover img{
+    width:60px;
+    height:70px;
+}

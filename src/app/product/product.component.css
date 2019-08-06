@@ -1,0 +1,17 @@
+.product-avtar{
+    height:200px;
+    width: 250px;
+}
+
+.card{
+    width: 290px;
+}
+
+@media(max-width: 767.98px)
+{
+    .product-avtar{
+        height:200px;
+       
+    }
+}
+
